@@ -1,6 +1,6 @@
 console.log("7. Sumar todos los números que se digitan por teclado mientras no sea cero.")
 
-console.log("ingrese los numero");
+console.log("ingrese los numeros");
 
 let num1 = 3;
 let num2 = 7;
